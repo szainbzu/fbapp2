@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637686148668",
+    "project_id": "fbapp2-2ec20",
+    "storage_bucket": "fbapp2-2ec20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637686148668:android:cc3d20038b837968a21d39",
+        "android_client_info": {
+          "package_name": "com.example.fbapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP9Nn92iwKJCpls9M9QgfnfxgZlX_M5sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
